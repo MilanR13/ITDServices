@@ -454,16 +454,12 @@ a.link:hover {background-color: none; color: #fff; text-decoration:none;}
     width:70%;
     padding-left: 12%;
   }
-  #ad{
-    font-size: 150;
-  }
-  
+  #ad{font-size: 100%;}
   .adr{
       margin-left: 15%;
       width:70%;
       padding-left: 12%;
-    }
-
+	}
   .container{width: 90%;}
   .main-content{margin-top: 35%;} 
   h1{font-size: 2rem;}
@@ -482,7 +478,7 @@ a.link:hover {background-color: none; color: #fff; text-decoration:none;}
   .half-right{width: 90%;padding-right: 0%;padding-left: 14.5%;padding-top: 5%;margin: 0;}
   .team img{height: 200px;width: 200px;} 
   .containert{width: 90%;}
-  .advantages img{height: 50px;width: auto;}
+  .advantages img{height: 40px;width: auto;}
 
 }
 .kontakt img{max-width: 150px;height: 178px;}
